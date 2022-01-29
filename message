@@ -1,0 +1,28 @@
+To: admin@local.ru
+Subject: =?UTF-8?B?Qml0cml4IERvY2tlcjog0KDQtdCz0LjRgdGC0YDQsNGG0LjQvtC90L3QsNGPINC40L3RhNC+0YDQvNCw0YbQuNGP?=
+From: bitrix.docker@gmail.com
+Reply-To: bitrix.docker@gmail.com
+X-EVENT_NAME: USER_INFO
+X-Priority: 3 (Normal)
+Date: Wed, 13 Oct 2021 12:51:00 +0300
+MIME-Version: 1.0
+X-MID: 0.2 (13.10.2021 12:51:00)
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Информационное сообщение сайта Bitrix Docker
+------------------------------------------
+ ,
+
+Администратор сайта изменил ваши регистрационные данные.
+
+Ваша регистрационная информация:
+
+ID пользователя: 1
+Статус профиля: активен
+Login: admin
+
+Вы можете изменить пароль, перейдя по следующей ссылке:
+http://bitrix.docker/auth/index.php?change_password=yes&lang=ru&USER_CHECKWORD=e9825ef385cc0cf85dc1d87a5972c9fa&USER_LOGIN=admin
+
+Сообщение сгенерировано автоматически.
